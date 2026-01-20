@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "83210fb4d13fcd85",
+    "type": "split",
+    "children": [
+      {
+        "id": "64676e141fe5d0a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee06c1743e46e49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b5e00f75c495ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dab87049045f363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e086440e3673d1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "38dc53bf70b1e88e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4e7921cd09ae18fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "d92eae9e92079c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d406242b9f076f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed0fc87f4de8ce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "abc6cffc0f7523dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "b4290965777b736d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "11e6f6e2441c64da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "505268f544f1d77e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "4e086440e3673d1e",
+  "lastOpenFiles": [
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/decltype 2ee29df027a68126810bd848c23c5492.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/模板 2ee29df027a681639618f2269e57fc97.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/类模板 2ee29df027a6812da8b3d6a62aef151c.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/虚函数 2ee29df027a681419585e47b3211a45e.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/野指针和悬空指针 2ee29df027a68168ad2ece6683d3e0d4.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/栈溢出 2ee29df027a681acaa7ec96a747e3efa.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/全局变量与局部变量 2ee29df027a68163a944f18b16249307.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/new delete vs malloc free 2ee29df027a6817c8dfbfacaf9f307a3.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/auto 2ee29df027a6813ebc6ee6b0e9a6a1ba.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/无标题 2ee29df027a6814cb527cfbe16e9f90e.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/static 2ee29df027a681e09620ffdfe3f07cca.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/extern 2ee29df027a6813ba966f6c1a8e2055f.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/define 2ee29df027a68191983ed01d8338cb92.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/const 2ee29df027a681b8bf33f477d8b6543b.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/C++编译流程 2ee29df027a681149504e3b66991870d.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经 2ee29df027a6816bbef5dc3cc8cc84f7.md",
+    "欢迎.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/零拷贝 2ee29df027a68110b48dd8e2904092ec.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/虚继承 2ee29df027a68116bd4ff725696d2213.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/纯虚函数 2ee29df027a68102ae26f459cc905a94.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/深拷贝 vs 浅拷贝 2ee29df027a681b1bd78c29208b6f33d.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/智能指针 2ee29df027a68187942dd95414e6059c.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/指针常量 vs 常量指针 2ee29df027a6816fa849c389246566cd.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/多重继承的底层实现 2ee29df027a6819991f2c4dbb46e816b.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/回调函数 2ee29df027a6814a946ed136276ccaee.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库/友元函数、友元类 2ee29df027a6812f8e99fda1cc522d58.md",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库 2ee29df027a681fb8685f03f5e27c32b.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/🗄️ C++ 题目总库 2ee29df027a681fb8685f03f5e27c32b_all.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a681fa967fda95842b40fd.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a681f193dde8c8b1ece59b.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a681e789bbe130d7f6dad0.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a681af96d1f8e223af97d0.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a6819cb875cba3d2b3391f.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a6817f9f16d3e85c1908b9.csv",
+    "面经/ExportBlock-66f7a9ca-ed79-4f63-899b-2064d714c937-Part-1/🗄️ C++面经/无标题 2ee29df027a68175b1c1d5e7784b22b4.csv"
+  ]
+}
